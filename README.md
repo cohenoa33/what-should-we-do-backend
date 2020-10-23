@@ -4,8 +4,6 @@
 
 What Should We Do is an activity journal that helps users log everywhere they visit. 
 
-![what should we do img](https://i.imgur.com/9Cuydg6.png)
-
 
 **How To Install** 
 1. Clone the repository to your machine.
