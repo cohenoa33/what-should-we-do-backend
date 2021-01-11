@@ -11,6 +11,10 @@ What Should We Do is an activity journal that helps users log everywhere they vi
 3. `$ db:migrate`
 4. `$ db:seed`
 5. Run `rails s` to start the server 
+
+**[What Should We Do](https://what-sholud-we-do.surge.sh/)**
+
+
 ## Credits 
 
 Noa Rabin-Cohen: https://github.com/cohenoa33
